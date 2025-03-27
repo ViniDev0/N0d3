@@ -2,12 +2,13 @@
   "name": "web_node",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "node --watch src/server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Vini0Dev",
   "license": "ISC",
-  "description": "",
-  "type": "module"
+  "description": ""
+  
 }
